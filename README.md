@@ -15,8 +15,8 @@ A Flutter application that displays a map with farm locations across Tunisia usi
 dependencies:
   flutter:
     sdk: flutter
-  google_maps_flutter: ^2.5.0
-  get: ^4.6.5
+  google_maps_flutter: ^2.10.1
+  get: ^4.7.2
 ```
 
 ## 🗂️ Project Structure
@@ -39,7 +39,7 @@ assets/
 1. Clone this repo:
    ```bash
    git clone https://github.com/marcolous/Flutter-Dropwise-Task.git
-   cd farm-map-app
+   cd Flutter-Dropwise-Task
    ```
 
 2. Get dependencies:
